@@ -1,18 +1,17 @@
 ﻿using System.Reflection.Metadata.Ecma335;
 
+
 namespace CourseProject;
+
+// kurs link - https://www.youtube.com/watch?v=YrtFtdTTfv0
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
-
+        //VariablesInfo.VarriblesTypes();
+        IfElseLesson.Example();
 
     }
 
-    static void Title( string? Title )
-    {
-        Console.WriteLine("Title")
-    }
 }
