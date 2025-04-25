@@ -11,7 +11,8 @@ class Program
     {
         //VariablesInfo.VarriblesTypes();
         //If_ifelse_else.Example();
-        Switch_Case.Example();
+        //Switch_Case.Example();
+        Loops.Example();
 
     }
 
