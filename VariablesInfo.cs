@@ -9,7 +9,13 @@ namespace CourseProject
     public class VariablesInfo
     {
         public static void VarriblesTypes() 
-        { 
+        {
+            // Typy niejawne
+            var a = "this get type when get first value";
+            var b = 33;
+            var c = 33.123;
+
+            // Jawne typy
             char OneChar = 'a';
             string Name = "Kamil";
 
@@ -56,6 +62,13 @@ namespace CourseProject
             long bigInt = Convert.ToInt64(TextBigInt);
             Console.WriteLine(bigInt);
 
+            // Reszta z dzielenia 
+            Console.WriteLine(100 % 90);
+            Console.WriteLine(71 % 10);
+            Console.WriteLine(32 % 30);
+
         }
+
+
     }
 }
