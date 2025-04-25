@@ -9,10 +9,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        VariablesInfo.VarriblesTypes();
-        If_ifelse_else.Example();
-
-        //1h
+        //VariablesInfo.VarriblesTypes();
+        //If_ifelse_else.Example();
+        Switch_Case.Example();
 
     }
 
